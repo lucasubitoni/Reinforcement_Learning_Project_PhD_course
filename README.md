@@ -1,5 +1,10 @@
-# Reinforcement Learning - Project (PhD course)
+# Reinforcement Learning Project (PhD course)
 ### Massimiliano Nigro, Luca Subitoni
 
-(Politecnico di Milano - Course information)[https://www11.ceda.polimi.it/manifestidott/manifestidott/controller/MainPublic.do?EVN_DETTAGLIOINSEGNAMENTO=EVENTO&c_insegn=061642&aa=2023&k_corso_la=1380]
+This repository contains the code relative to the "reproducibility challenge" project of the Reinforcement Learning PhD course offered by Politecnico di Milano.
+The selected paper for the project is: "Generative Adversarial Imitation Learning" by Jonathan Ho and Stefano Ermon.
+
+[Politecnico di Milano - Course information](https://www11.ceda.polimi.it/manifestidott/manifestidott/controller/MainPublic.do?EVN_DETTAGLIOINSEGNAMENTO=EVENTO&c_insegn=061642&aa=2023&k_corso_la=1380)
+
+
 
