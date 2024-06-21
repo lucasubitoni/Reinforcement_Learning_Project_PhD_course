@@ -1,0 +1,1 @@
+This folder contains the first approach we tried (abandoned)

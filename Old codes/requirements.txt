@@ -1,0 +1,12 @@
+gym == 0.1.0
+mujoco-py == 0.4.0
+numpy == 1.12
+scipy == 0.17.0
+theano == 0.8.2
+h5py
+tables
+pandas
+matplotlib
+imageio==2.6
+numexpr==2.7.0
+PyYAML==3.12
