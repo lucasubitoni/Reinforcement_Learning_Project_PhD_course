@@ -9,7 +9,7 @@ The selected paper for the project is: [Generative Adversarial Imitation Learnin
 <hr>
 
 #### CODE DESCRIPTION:
-The code is meant to work on Google Colab (last check: 28th June 2024). 
+The code ("main.ipynb") is meant to work on Google Colab (last check: 28th June 2024). 
 The setup of the Jupyter Notebook is subdivided in the following sections:
 
 - <b>Install packages</b>: it installs the necessary packages (including Mujoco) and loads the RL_project folder (which you can download in the GitHub repository) from your Google Drive account. A script from the imitation Pythoin library is corrected
