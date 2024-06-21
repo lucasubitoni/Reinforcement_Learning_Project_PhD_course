@@ -23,3 +23,5 @@ The main code is then subdivided in the following sections:
 3. <b>Imitation learning</b>: defines the imitation learning algorithm implemented, i.e., Behavioral Cloning and GAIL. (must run)
 4. <b>Compare the GAIL and Behavioral Cloning to the expert</b>: train and compare the imitation algorithms to the expert and the random policy (must run)
 5. <b>Plot curves to visualize the comparison</b>: generates the normalized curves present in the GAIL paper. If you already have the .csv results, you can directly load them in the Google Colab file manager
+
+<hr>
