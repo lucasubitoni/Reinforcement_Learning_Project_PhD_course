@@ -1,5 +1,5 @@
 # Reinforcement Learning Project (PhD course)
-### Massimiliano Nigro, Luca Subitoni
+
 
 This repository contains the code relative to the "reproducibility challenge" project of the Reinforcement Learning PhD course offered by Politecnico di Milano.
 The selected paper for the project is: [Generative Adversarial Imitation Learning](https://arxiv.org/abs/1606.03476) by Jonathan Ho and Stefano Ermon.
