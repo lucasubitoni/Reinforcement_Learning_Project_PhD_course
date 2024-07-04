@@ -1,0 +1,1 @@
+To use these expert with the provided code on the Jupyter Notebook, you need to first zip the folder of the expert and then upload it on Google Colab
