@@ -6,7 +6,7 @@ The selected paper for the project is: [Generative Adversarial Imitation Learnin
 
 [Politecnico di Milano - Reinforcement Learning course information](https://www11.ceda.polimi.it/manifestidott/manifestidott/controller/MainPublic.do?EVN_DETTAGLIOINSEGNAMENTO=EVENTO&c_insegn=061642&aa=2023&k_corso_la=1380)
 
-<video src="[https://github.com/rayytsn9/ROBOTT/assets/79029536/62f541aa-aa8c-43f5-9ead-4b7a2e0d7c2a](https://github.com/lucasubitoni/Reinforcement_Learning_Project_PhD_course/blob/main/TRPO%20Experts/results_Ant-v2/content/log/Ant-v2/expert.mp4)" width="500" />
+<video src="[https://github.com/lucasubitoni/Reinforcement_Learning_Project_PhD_course/blob/main/TRPO%20Experts/results_Ant-v2/content/log/Ant-v2/expert.mp4](https://github.com/lucasubitoni/Reinforcement_Learning_Project_PhD_course/blob/main/TRPO%20Experts/results_Ant-v2/content/log/Ant-v2/expert.mp4)" width="500" />
 
 <hr>
 
