@@ -25,3 +25,5 @@ The main code is then subdivided in the following sections:
 5. <b>Plot curves to visualize the comparison</b>: generates the normalized curves present in the GAIL paper. If you already have the .csv results, you can directly load them in the Google Colab file manager
 
 <hr>
+
+https://github.com/lucasubitoni/Reinforcement_Learning_Project_PhD_course/blob/main/TRPO%20Experts/results_Ant-v2/content/log/Ant-v2/expert.mp4
