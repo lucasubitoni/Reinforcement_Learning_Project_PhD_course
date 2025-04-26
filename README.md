@@ -2,6 +2,7 @@
 ### Massimiliano Nigro, Luca Subitoni
 
 This repository contains the [code](https://github.com/lucasubitoni/Reinforcement_Learning_Project_PhD_course/blob/main/main.ipynb) and the [final report](https://github.com/lucasubitoni/Reinforcement_Learning_Project_PhD_course/blob/main/Report.pdf) relative to the "reproducibility challenge" project of the Reinforcement Learning PhD course offered by Politecnico di Milano.
+
 The selected paper for the project is: [Generative Adversarial Imitation Learning](https://arxiv.org/abs/1606.03476) by Jonathan Ho and Stefano Ermon.
 
 [Politecnico di Milano - Reinforcement Learning course information](https://www11.ceda.polimi.it/manifestidott/manifestidott/controller/MainPublic.do?EVN_DETTAGLIOINSEGNAMENTO=EVENTO&c_insegn=061642&aa=2023&k_corso_la=1380)
@@ -26,4 +27,9 @@ The main code is then subdivided in the following sections:
 
 <hr>
 
-https://github.com/lucasubitoni/Reinforcement_Learning_Project_PhD_course/blob/main/TRPO%20Experts/results_Ant-v2/content/log/Ant-v2/expert.mp4
+#### Example of Expert Agent trained using TRPO:
+
+https://github.com/user-attachments/assets/a3fcaff1-c6bc-4dd4-85b3-ebd23778a074
+
+
+
