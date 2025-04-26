@@ -29,7 +29,6 @@ The main code is then subdivided in the following sections:
 
 #### Example of Expert Agent trained using TRPO:
 
-https://github.com/user-attachments/assets/a3fcaff1-c6bc-4dd4-85b3-ebd23778a074
-
+https://github.com/user-attachments/assets/86ef7d24-f440-4703-bb07-6c145e5f873d
 
 
